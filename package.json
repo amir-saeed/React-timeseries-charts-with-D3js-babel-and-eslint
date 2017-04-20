@@ -1,19 +1,19 @@
 {
   "name": "react-timeseries-charts",
   "version": "0.12.4",
-  "description": "Declarative timeseries charts",
+  "description": "React timeseries charts",
   "keywords": [
     "d3",
     "charts",
     "react",
     "timeseries"
   ],
-  "homepage": "http://software.es.net/react-timeseries-charts",
+  "homepage": "http://github.com/amir-saeed",
   "main": "lib/entry",
-  "author": "ESnet Tools Team <tools@es.net>",
-  "repository": "esnet/react-timeseries-charts",
+  "author": "amir saeed",
+  "repository": "http://github.com/amir-saeed",
   "bugs": {
-    "url": "https://github.com/esnet/react-timeseries-charts/issues"
+    "url": "http://github.com/amir-saeed"
   },
   "scripts": {
     "docs": "echo \"*** Building API docs\n\" && react-docgen src/components -x js -o src/website/api/docs.json --pretty",
